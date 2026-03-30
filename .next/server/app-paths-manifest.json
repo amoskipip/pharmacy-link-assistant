@@ -1,0 +1,20 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/api/admin/login/route": "app/api/admin/login/route.js",
+  "/api/admin/setup/route": "app/api/admin/setup/route.js",
+  "/api/medicines/[id]/route": "app/api/medicines/[id]/route.js",
+  "/api/medicines/route": "app/api/medicines/route.js",
+  "/api/orders/route": "app/api/orders/route.js",
+  "/api/prescriptions/[id]/route": "app/api/prescriptions/[id]/route.js",
+  "/api/prescriptions/route": "app/api/prescriptions/route.js",
+  "/api/settings/route": "app/api/settings/route.js",
+  "/checkout/page": "app/checkout/page.js",
+  "/page": "app/page.js",
+  "/success/page": "app/success/page.js",
+  "/admin/inventory/page": "app/admin/inventory/page.js",
+  "/admin/login/page": "app/admin/login/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/prescriptions/page": "app/admin/prescriptions/page.js",
+  "/admin/settings/page": "app/admin/settings/page.js"
+}
